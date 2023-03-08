@@ -1,2 +1,2 @@
-# darjanjuranovic.github.io
-Osobna web stranica https://darjanjuranovic.github.io
+# jurandarjanovic.github.io
+Osobna web stranica https://jurandarjanovic.github.io
